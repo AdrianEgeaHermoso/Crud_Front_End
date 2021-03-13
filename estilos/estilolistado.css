@@ -56,8 +56,8 @@ table {
 	width:100%; 
 	max-width:100%;
 }
-table thead tr {border-bottom:3px solid black; color:#000;}
-table tfoot tr {border-top:3px solid black;}
+/*table thead tr {border:1px solid #bfbfbf;}
+table tfoot tr {border:1px solid #bfbfbf;}*/
 table thead th, table tfoot th {
 	background-color:rgba(128, 128, 128, 0.829);
 	color:#000;
@@ -110,7 +110,7 @@ caption {font-size:1.111em; font-weight:300; padding:10px 0;}
 	
 	.table-responsive-full td:first-child {
 		border-top:1px solid #bfbfbf;
-		border-bottom: 3px solid #0085a6;
+		border-bottom: 1px solid #bfbfbf;
 		border-radius: 4px 4px 0 0;
 		color: #000;
 		font-size: 1.11111em;
