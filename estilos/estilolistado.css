@@ -36,7 +36,7 @@ button {
   font-size:1em;
 	transition:all .3s ease-in-out;
 }
-button:hover {background: black;}
+button:hover {background: white;}
 
 /* Tables */
 	/* Responsive scroll-y table */
